@@ -5,10 +5,8 @@
 
 
 
-> [!WARNING]
-> The extension does not work as of the current moment.
-> To keep this project alive, you can support us.
-> [Here](https://vswork-progress.vercel.app/support.html)
+> [!TIP]
+> If you like this project, please, consider sponsoring [here](vswork-progress.vercel.app/support.html), or on github.
 
 
 ## What is this?
