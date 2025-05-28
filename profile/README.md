@@ -20,6 +20,6 @@ Our discord: [Join](https://discord.gg/ef6HR6BW7C)
 ### Source code
 
 - [Main extension](https://github.com/andrinoff/work-progress)
-- [Email server](https://github.com/andrinoff/server_work_progress)
+- [Email server](https://github.com/andrinoff/work-progress-email)
 - [Backend + DB](https://github.com/andrinoff/work-progress-backend)
 - [Website](https://github.com/andrinoff/work-progress-web)
