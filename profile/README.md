@@ -3,7 +3,16 @@
 
 # This is Work Progress
 
+<h2>Status:</h2>
+<h3>Extension</h3>
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/work-progress/work-progress">
 
+<h3>Web</h3>
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/andrinoff/work-progress-web">
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvswork-progress.vercel.app">
+
+<h3>Server</h3>
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/andrinoff/work-progress-backend">
 
 > [!TIP]
 > If you like this project, please, consider sponsoring [here](https://vswork-progress.vercel.app/support.html), or on github.
