@@ -6,7 +6,7 @@
 
 
 > [!TIP]
-> If you like this project, please, consider sponsoring [here](vswork-progress.vercel.app/support.html), or on github.
+> If you like this project, please, consider sponsoring [here](https://vswork-progress.vercel.app/support.html), or on github.
 
 
 ## What is this?
