@@ -35,25 +35,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-```sh
-git clone https://github.com/work-progress/work-progress.git
-cd work-progress
-npm install
-npm run dev
-```
-### Prerequisites
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
