@@ -1,34 +1,126 @@
 
-<img src = "https://camo.githubusercontent.com/1601b19daa5ef8a8f7d7c4f1cfc2517e475354aa88e8b6001171fb9e31abc929/68747470733a2f2f692e696d6775722e636f6d2f6c716e4c75726c2e706e67">
+<a id="readme-top"></a>
 
-# This is Work Progress
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Unlicense License][license-shield]][license-url]
+[![Publish Workflow](https://img.shields.io/github/actions/workflow/status/work-progress/work-progress/publish_vscode.yml?style=for-the-badge)](https://github.com/work-progress/work-progress/actions/workflows/publish_vscode.yml)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/andrinoff.work-progress?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=andrinoff.work-progress)
+[![Visual Studio Downloads](https://img.shields.io/visual-studio-marketplace/d/andrinoff.work-progress?style=for-the-badge)]
 
-<h2>Status:</h2>
-<h3>Extension</h3>
-<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/work-progress/work-progress">
+<br />
+<div align="center">
+  <a href="https://github.com/work-progress/work-progress">
+    <img src="https://github.com/work-progress/assets/blob/master/banners/banner-work-progress-white.png?raw=true" alt="Banner"  height="200">
+  </a>
 
-<h3>Web</h3>
-<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/work-progress/work-progress.github.io">
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwork-progress.github.io">
+  <h3 align="center">Work Progress Github Source Code</h3>
 
-<h3>Server</h3>
-<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/andrinoff/work-progress-backend">
+  <p align="center">
+    An extension to track your progress while working
+    <br />
+    
+  </p>
+</div>
 
 > [!TIP]
 > If you like this project, please, consider sponsoring [here](https://work-progress.github.io/support.html), or on github.
 
 
-## What is this?
-Work Progress is a VSCode extension, which allows you to track your time working throughout the day and see it in your inbox and/or website
-As well as that, all the code used here is open sourced, so anyone could fork, replicate, enchance this extension.
+### Built With
+
+
+* ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+```sh
+git clone https://github.com/work-progress/work-progress.git
+cd work-progress
+npm install
+npm run dev
+```
+### Prerequisites
+
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+### You can contribute here:
+
+### Website [![Website](https://img.shields.io/github/issues/work-progress/work-progress.github.io?style=for-the-badge)](https://github.com/work-progress/work-progress.github.io)
+### Extension [![Extension][issues-shield]][issues-url]
+### Backend [![Backend](https://img.shields.io/github/issues/andrinoff/work-progress-backend?style=for-the-badge)](https://github.com/andrinoff/work-progress-backend)
+
+
+### Top contributors:
+
+<a href="https://github.com/work-progress/work-progress/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=work-progress/work-progress" alt="contrib.rocks image" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Maintainer:
+
+[@dreyseki](https://twitter.com/dreyseki) - realandrinoff@gmail.com - [@andrinoff](https://github.com/andrinoff) (github)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [Img Shields](https://shields.io)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/work-progress/work-progress.svg?style=for-the-badge
+[contributors-url]: https://github.com/work-progress/work-progress/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/work-progress/work-progress.svg?style=for-the-badge
+[forks-url]: https://github.com/work-progress/work-progress/network/members
+[stars-shield]: https://img.shields.io/github/stars/work-progress/work-progress.svg?style=for-the-badge
+[stars-url]: https://github.com/work-progress/work-progress/stargazers
+[issues-shield]: https://img.shields.io/github/issues/work-progress/work-progress.svg?style=for-the-badge
+[issues-url]: https://github.com/work-progress/work-progress/issues
+[license-shield]: https://img.shields.io/github/license/work-progress/work-progress.svg?style=for-the-badge
+[license-url]: https://github.com/work-progress/work-progress/blob/prod/LICENSE.txt
+
 
 ### Our socials:
 Main developer: [Drew Smirnoff](https://linktr.ee/andrinoff)
 Our discord: [Join](https://discord.gg/ef6HR6BW7C)
-
-### Source code
-
-- [Main extension](https://github.com/andrinoff/work-progress)
-- [Email server](https://github.com/andrinoff/work-progress-email)
-- [Backend + DB](https://github.com/andrinoff/work-progress-backend)
-- [Website](https://github.com/andrinoff/work-progress-web)
